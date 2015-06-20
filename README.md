@@ -5,3 +5,4 @@ Because time in internet costs energy, that will be base of the currency.
 # Time = Money
 There is no need to just keep money, that will bring trought.
 Just invest or exchange.
+Im open to ideas randma.martti@gmail.com
