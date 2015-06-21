@@ -6,6 +6,9 @@
   3.2. Needs to split block into coins if x amount of timepower is gained over block lifespan.<p>
 4. Coin can be apply'd with freehosting services, no extra resources and this means it cant be taken down.<p>
 5. Work in time, means energy soo every part of the scheme needs to earn % of transmited traffic.<p>
+
+E-Network scheme : http://i59.tinypic.com/23jlq4g.png<p>
+
 # E-kroon
 E-Currency with expiring date and mining algorythm is based on session time spent on website.
 # If money is transacted it gains value.
