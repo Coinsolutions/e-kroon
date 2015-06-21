@@ -1,4 +1,4 @@
-I need programming power, soo if you wanna help me, just pm.<p>
+#I need programming power, soo if you wanna help me, just pm or email randma.martti@gmail.com <p>
 1.miner.js done<p>
 2.rock.php done, send info about the miners to coinbase.<p>
 3.coinbase.php - Needs user-enviroment to use the coin with statical money that moves in time and gains value.<p>
