@@ -9,3 +9,4 @@ Because time in internet costs energy, that will be base of the currency.
 # If E-kroons are not used they expire, but if traided gain timepower aka lifespan.
 Just invest or exchange.
 Im open to ideas randma.martti@gmail.com
+Soo only the coinbase with the most trade is valuable.
