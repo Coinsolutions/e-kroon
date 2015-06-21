@@ -1,3 +1,4 @@
+#What is E-Kroon ? -> https://github.com/Coinsolutions/e-kroon/wiki
 #I need programming power, soo if you wanna help me, just pm or email randma.martti@gmail.com <p>
 1.miner.js done<p>
 2.rock.php done, send info about the miners to coinbase.<p>
