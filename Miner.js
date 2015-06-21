@@ -1,3 +1,5 @@
+<html>
+<script>
 var aeg = new Date().toString();
 var iFrequency = 5000; // expressed in miliseconds
 var myInterval = 0;
@@ -29,13 +31,13 @@ function startLoop() {
 
 function mine()
 {
-var xhr = new XMLHttpRequest();
-xhr.open("GET", "http://twojointsontheroad.info/e-kroon/rock.php?aeg="+aeg+"&prefix=martti&ip="+ip, true);
-xhr.onreadystatechange = function() {
-  if (xhr.readyState == 4) {
-    // WARNING! Might be evaluating an evil script!
-    var resp = eval("(" + xhr.responseText + ")");
-  }
-}
+if (window.XMLHttpRequest) xhr = new XMLHttpRequest();
+    else xhr = new ActiveXObject("Microsoft.XMLHTTP");
+if ('withCredentials' in xhr) {
+xhr.open("GET", "http://twojointsontheroad.info/e-kroon/rock.php?aeg="+aeg+"&prefix=martti&ip="+ip, false);
 xhr.send();
+return false;
 }
+}
+</script>
+</html>
