@@ -22,7 +22,7 @@ Soo only the coinbase with the most trade is valuable.
 4. Coin can be apply'd with freehosting services, no extra resources and this means it cant be taken down.<p>
 5. Work in time, means energy soo every part of the scheme needs to earn % of transmited traffic.<p>
 
-E-Network UML's : <p>
+####E-Network UML's : <p>
 http://s27.postimg.org/99rqsu2vn/E_kroon_Network.jpg<p>
 http://s15.postimg.org/7z826ck23/E_Kroon_Struckt.jpg<p>
 http://s29.postimg.org/lxm5pnx0n/E_Network.png<p>
