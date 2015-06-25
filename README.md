@@ -1,4 +1,5 @@
 #What is E-Kroon ? -> https://github.com/Coinsolutions/e-kroon/wiki
+#Bitcointalk.com -> https://bitcointalk.org/index.php?topic=1096059.msg11677722
 #I need programming power, soo if you wanna help me, just pm or email randma.martti@gmail.com <p>
 1.miner.js done<p>
 2.rock.php done, send info about the miners to coinbase.<p>
