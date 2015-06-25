@@ -1,6 +1,19 @@
-#What is E-Kroon ? -> https://github.com/Coinsolutions/e-kroon/wiki
-#Bitcointalk.com -> https://bitcointalk.org/index.php?topic=1096059.msg11677722
-#I need programming power, soo if you wanna help me, just pm or email randma.martti@gmail.com <p>
+# E-kroon
+##What is E-Kroon ? -> https://github.com/Coinsolutions/e-kroon/wiki
+##Bitcointalk.com -> https://bitcointalk.org/index.php?topic=1096059.msg11677722
+
+E-Currency with expiring date and mining algorythm is based on session time spent on website.
+### If money is transacted it gains value.
+Because time in internet costs energy, that will be base of the currency.
+### Time = Money
+### Miner generates Timepower
+### Blocks = Timepower
+### If block is mined, E-kroon's are rewarded.
+### If E-kroons are not used they expire, but if traided gain timepower aka lifespan.
+Just invest or exchange.
+Im open to ideas randma.martti@gmail.com
+Soo only the coinbase with the most trade is valuable.
+###I need programming power, soo if you wanna help me, just pm or email randma.martti@gmail.com <p>
 1.miner.js done<p>
 2.rock.php done, send info about the miners to coinbase.<p>
 3.coinbase.php - Needs user-enviroment to use the coin with statical money that moves in time and gains value.<p>
@@ -10,16 +23,3 @@
 5. Work in time, means energy soo every part of the scheme needs to earn % of transmited traffic.<p>
 
 E-Network UML : http://i60.tinypic.com/vwsaqv.jpg<p>
-
-# E-kroon
-E-Currency with expiring date and mining algorythm is based on session time spent on website.
-# If money is transacted it gains value.
-Because time in internet costs energy, that will be base of the currency.
-# Time = Money
-# Miner generates Timepower
-# Blocks = Timepower
-# If block is mined, E-kroon's are rewarded.
-# If E-kroons are not used they expire, but if traided gain timepower aka lifespan.
-Just invest or exchange.
-Im open to ideas randma.martti@gmail.com
-Soo only the coinbase with the most trade is valuable.
